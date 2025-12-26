@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Emerald Sword",
+  "base_artist": "Rhapsody of Fire",
+  "createdAt": "2025-12-26T17:52:45.496470Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Emerald Sword",
+      "artist": "Rhapsody of Fire",
+      "has_synced": true,
+      "path": "select/01_Emerald_Sword_Rhapsody_of_Fire.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Emerald Sword",
+      "artist": "Rhapsody",
+      "has_synced": true,
+      "path": "select/02_Emerald_Sword_Rhapsody.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Emerald Sword",
+      "artist": "Rhapsody",
+      "has_synced": true,
+      "path": "select/03_Emerald_Sword_Rhapsody.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Emerald Sword",
+      "artist": "Rhapsody of Fire",
+      "has_synced": true,
+      "path": "select/04_Emerald_Sword_Rhapsody_of_Fire.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Emerald Sword",
+      "artist": "Rhapsody",
+      "has_synced": true,
+      "path": "select/05_Emerald_Sword_Rhapsody.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Emerald Sword",
+      "artist": "Rhapsody Of Fire",
+      "has_synced": true,
+      "path": "select/06_Emerald_Sword_Rhapsody_Of_Fire.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Emerald Sword",
+      "artist": "Rhapsody",
+      "has_synced": true,
+      "path": "select/07_Emerald_Sword_Rhapsody.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Emerald Sword - Re-Recorded",
+      "artist": "Rhapsody of Fire",
+      "has_synced": true,
+      "path": "select/08_Emerald_Sword_-_Re-Recorded_Rhapsody_of_Fire.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Emerald Sword",
+      "artist": "Rhapsody",
+      "has_synced": true,
+      "path": "select/09_Emerald_Sword_Rhapsody.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Emerald Sword (Re-Recorded)",
+      "artist": "Rhapsody of Fire",
+      "has_synced": true,
+      "path": "select/10_Emerald_Sword_(Re-Recorded)_Rhapsody_of_Fire.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Emerald Sword - live",
+      "artist": "Luca Turilli's Rhapsody",
+      "has_synced": false,
+      "path": "select/11_Emerald_Sword_-_live_Luca_Turilli's_Rhapsody.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Emerald Sword",
+      "artist": "Luca Turilli's Rhapsody",
+      "has_synced": false,
+      "path": "select/12_Emerald_Sword_Luca_Turilli's_Rhapsody.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Emerald Sword",
+      "artist": "Rhapsody",
+      "has_synced": true,
+      "path": "select/13_Emerald_Sword_Rhapsody.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Emerald Sword",
+      "artist": "Rhapsody Of Fire",
+      "has_synced": true,
+      "path": "select/14_Emerald_Sword_Rhapsody_Of_Fire.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Emerald Sword",
+      "artist": "Rhapsody Of Fire",
+      "has_synced": false,
+      "path": "select/pl_01_Emerald_Sword_Rhapsody_Of_Fire.txt"
+    }
+  ]
+}
